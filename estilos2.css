@@ -1,0 +1,34 @@
+body{
+	background-color: #D9F5F3;
+}
+.pe1{
+	position: absolute;
+	top: 12%;
+	left: 10%;
+	width: 80%;
+	height: 60%;
+}
+.botsp{
+	position: absolute;
+	top:  80%;
+	left: 40%;
+	width: 20%;
+	height: 10%;
+	border-width: 3%;
+	border-style: solid;
+	border-color: black;
+	background-color: #48A6AB;
+}
+.volver{
+	text-decoration: none;
+	position: absolute;
+	font-size: 170%;
+	font-family: tit2;
+	color: black;
+	margin-left: 7%;
+}
+@font-face{
+	font-family: tit2;
+	src: url(letra2.otf);
+}
+
