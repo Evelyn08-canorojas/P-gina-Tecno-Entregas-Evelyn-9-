@@ -271,7 +271,7 @@ body{
    color: black;
    font-family: titulo4;
    font-size: 200%;
-   left: 25%;
+   left: 30%;
 }
 .semana5h{
 	display: none;
@@ -293,7 +293,7 @@ body{
     color: white;
     font-family: titulo5;
     font-size: 125%;
-    left: 5%;
+    left: 16%;
 }
 .semana5:hover .tsemana5h{
 	display: block;
