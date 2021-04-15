@@ -1,0 +1,97 @@
+.titsp{
+	position: absolute;
+	top: -114%;
+	color: white;
+	font-family: titulo7;
+	font-size: 250%;
+	left: 26%;
+}
+.entregas1{
+	display: none;
+	position: absolute;
+	width: 90%;
+	height: 29%;
+	top: 101%;
+	left: 5%;
+	background-color: #4D65FC; 
+}
+.sp:hover .entregas1{
+	display: block;
+}
+.semana12{
+	display: none;
+	position: absolute;
+	width: 90%;
+	height: 95%;
+	top: 96%;
+	left: 4%;
+	background-color: #CFDCFE;
+	border-color: #4D65FC;
+	border-width: 3%;
+	border-style: solid; 
+}
+.tsemana12{
+	text-decoration: none;
+   position: absolute;
+   top: -5%;
+   color: black;
+   font-family: titulo4;
+   font-size: 200%;
+   left: 25%;
+}
+.semana12h{
+	display: none;
+	position: absolute;
+	top: -7%;
+	margin-left: -6.5%;
+	width: 111%;
+	height: 115%;
+	background-color: #4D65FC;
+}
+.semana12:hover .semana12h{
+	display: block;
+}
+.tsemana12h{
+	text-decoration: none;
+    display: none;
+    position: absolute;
+    top: -5%;
+    color: white;
+    font-family: titulo5;
+    font-size: 125%;
+    left: 6%;
+}
+.semana12:hover .tsemana12h{
+	display: block;
+}
+.sp:hover .semana12{
+	display: block;
+}
+@font-face{
+	font-family: titulo;
+	src: url(letra1.ttf);
+}
+@font-face{
+	font-family: titulo2;
+	src: url(letra2.otf);
+}
+@font-face{
+	font-family: titulo3;
+	src: url(letra3.otf);
+}
+@font-face{
+	font-family: titulo4;
+	src: url(letra4.otf);
+}
+@font-face{
+	font-family: titulo5;
+	src: url(letra5.otf);
+}
+@font-face{
+	font-family: titulo6;
+	src: url(letra6.ttf);
+}
+@font-face{
+	font-family: titulo7;
+	src: url(letra3.otf);
+}
