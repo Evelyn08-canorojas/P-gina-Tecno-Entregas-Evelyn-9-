@@ -455,7 +455,7 @@ body{
    color: black;
    font-family: titulo4;
    font-size: 200%;
-   left: 25%;
+   left: 29%;
 }
 .semana9h{
 	display: none;
@@ -572,15 +572,6 @@ body{
 	border-style: solid;
 	border-width: 10%;
 }
-.menssp{
-	display: none;
-	position: absolute;
-	top: -95%;
-	right: -94%;
-}
-.sp:hover .menssp{
-	display: block;
-}
 .segundo{
 	position: absolute;
 	top: -80%;
@@ -696,6 +687,6 @@ body{
 }
 @font-face{
 	font-family: titulo7;
-	src: url(letra3.ttf);
+	src: url(letra3.otf);
 }
 
