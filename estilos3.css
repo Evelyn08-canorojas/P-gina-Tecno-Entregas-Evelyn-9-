@@ -67,6 +67,55 @@
 .sp:hover .semana12{
 	display: block;
 }
+.semana122{
+	display: none;
+	position: absolute;
+	width: 90%;
+	height: 95%;
+	top: 196%;
+	left: 4%;
+	background-color: #CFDCFE;
+	border-color: #4D65FC;
+	border-width: 3%;
+	border-style: solid; 
+}
+.tsemana122{
+	text-decoration: none;
+   position: absolute;
+   top: -5%;
+   color: black;
+   font-family: titulo4;
+   font-size: 200%;
+   left: 25%;
+}
+.semana12h2{
+	display: none;
+	position: absolute;
+	top: -7%;
+	margin-left: -6.5%;
+	width: 111%;
+	height: 115%;
+	background-color: #4D65FC;
+}
+.semana122:hover .semana12h2{
+	display: block;
+}
+.tsemana12h2{
+	text-decoration: none;
+    display: none;
+    position: absolute;
+    top: -5%;
+    color: white;
+    font-family: titulo5;
+    font-size: 125%;
+    left: 6%;
+}
+.semana122:hover .tsemana12h2{
+	display: block;
+}
+.sp:hover .semana122{
+	display: block;
+}
 @font-face{
 	font-family: titulo;
 	src: url(letra1.ttf);
